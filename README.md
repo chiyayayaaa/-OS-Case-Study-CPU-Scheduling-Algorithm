@@ -1,10 +1,8 @@
 # -OS-Case-Study-CPU-Scheduling-Algorithm
 Hosted Repository for OS Case Study of a  Web-Based Scheduling Simulator
 
-# Website Link Here:
+# Links for Hosted Site and Video Presentation
 > **Link:** https://chiyayayaaa.github.io/-OS-Case-Study-CPU-Scheduling-Algorithm/
-
-# Video Link Here:
 > **Video Link:** https://drive.google.com/file/d/1n0zKk4KMxPhw6AkjcQTjZTULgQA8pM3W/view?usp=sharing
 
 
