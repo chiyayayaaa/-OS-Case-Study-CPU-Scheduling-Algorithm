@@ -108,7 +108,7 @@ OS_Case-Study/
 ## Technical Details
 
 - **Languages:** HTML5, CSS3, Vanilla JavaScript (ES6+)
-- **Fonts:** Space Grotesk, JetBrains Mono, Syne (via Google Fonts)
+- **Fonts:** Space Grotesk, JetBrains Mono, Syne (via Google Fonts), MineCrafter (via DaFont)
 - **Theming:** CSS custom properties with `data-theme` attribute switching
 - **Algorithms:** All scheduling logic is implemented client-side in pure JavaScript
 - **No frameworks, no build tools, no external APIs**
